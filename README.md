@@ -1,11 +1,11 @@
-# <p align="center"><b>Welcome to Articly</b></p>
+### <p align="center"><b>Welcome to Articly</b></p>
+------------
 
-
-### 🤔 What is Articly?
+## 🤔 What is Articly?
 
 Articly is a Website Content Management System that will later be able to provide various kinds of educational articles, learning videos and is also expected to be a discussion forum to share knowledge with each other. This website is built with Laravel 9.x Framework
 
-### ⚠️ Requirements needed
+## ⚠️ Requirements needed
 
 - PHP Version 8
 - Web Browser (Google Chrome, Firefox, Microsoft Edge)
@@ -15,7 +15,7 @@ Articly is a Website Content Management System that will later be able to provid
 - NodeJS Version 16.14.0 LTS
 - Internet Network
 
-### 📕 Installation Guide
+## 📕 Installation Guide
 
 1. Repository Clone
 ```bash
@@ -51,7 +51,7 @@ DB_PASSWORD=YourDatabasePassword
 php artisan migrate
 ```
 
-### 👤 Default Account
+## 👤 Default Account
 
 Administrator Account
 - Username : administrator@articly.com
@@ -62,8 +62,12 @@ User Account
 - Password : 1234567890
 
 
-### 🧑 Developed by <a href="https://www.garllockhart.com">Garly Nugraha</a>
+## 🧑 Developed by <a href="https://www.garllockhart.com">Garly Nugraha</a>
 
 - Instagram <a href="https://www.instagram.com/garllockhart">@garllockhart</a>
 - Twitter <a href="https://twitter.com/garllockhart">@garllockhart</a>
 - Medium <a href="https://medium.com/@garllockhart">@garllockhart</a>
+
+------------
+
+<p align="center"><b>Made with ❤️ Garly Nugraha & Nazwa Fitriyani Zahra</b></p>
