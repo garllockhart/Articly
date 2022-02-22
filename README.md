@@ -71,4 +71,4 @@ User Account
 
 ------------
 
-<p align="center"><b>Made with ❤️ Garly Nugraha & Nazwa Fitriyani Zahra</b></p>
+<p align="center"><b>Made with ❤️ Garly Nugraha</b></p>
