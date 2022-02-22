@@ -8,7 +8,7 @@ Articly is a Website Content Management System that will later be able to provid
 
 ## ⚠️ Requirements needed
 
-- PHP Version 8
+- PHP Version 9
 - Web Browser (Google Chrome, Firefox, Microsoft Edge)
 - Web Server (XAMPP,  Nginx)
 - Git Version 2.35.1
